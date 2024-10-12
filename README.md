@@ -1,6 +1,6 @@
 # ThreadLaunch
 
-In this project there are 10 different ways with which you can start or launch a thread. 
+In this project there are 10 different ways with which you can start or launch a thread. This project gives you a simple understanding of how to start or launch any thread.
 
 1. Any function without arguments
 2. Any function with arguments
